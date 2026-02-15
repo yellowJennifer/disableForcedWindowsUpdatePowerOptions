@@ -1,5 +1,12 @@
 # disableForcedWindowsUpdatePowerOptions
-a registry key editor that brings the values of the items that show on the power off menu, back to the normal ones "Shut down" and "Restart", with no forced update, for Windows 10 and 11.
+a registry key file that brings the values of the items that show on the power off menu, back to the normal ones "Shut down" and "Restart", with no forced update, for Windows 10 and 11.
+
+before:
+<img width="307" height="165" alt="image" src="https://github.com/user-attachments/assets/1dfeb6e5-b780-4d63-9f49-7165d2b400fb" />
+
+after:
+<img width="136" height="168" alt="image" src="https://github.com/user-attachments/assets/f6cc914e-8091-4f28-8f44-c875b5aadff6" />
+
 
 just get the latest .reg file from Releases, and run it.
 
