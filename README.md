@@ -12,4 +12,4 @@ after: <br>
 
 all it does is set Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\WindowsUpdate\Orchestrator\ShutdownFlyoutOptions to 0, resetting all power off options back to normal.
 
-if you want a "click and run" option for this, you can get the .reg file that does literally just this 👆, in the releases.
+if you want a "click and run" option for this, you can get the .reg file that does literally just this 👆, in [the releases.](https://github.com/yellowJennifer/disableForcedWindowsUpdatePowerOptions/releases/tag/initial-releases)
