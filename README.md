@@ -16,6 +16,6 @@ if you want a "click and run" option for this, you can get the .reg file that do
 
 # Disclaimer:
 Windows seems to reset this value upon system restart; or even while the computer is on.... (unconfirmed) <br><br>
-as a band-aid fix, I added the file (a shortcut is fine too) to `shell:startup` or <br>
+as a band-aid fix, you can add the file (a shortcut is fine too) to `shell:startup` or <br>
 `C:\Users\(YourUser)\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup` (same folder), so it just prompts you to press yes every time you boot up your system. <br><br>
 (I bet there's a way to do this better, but I'm trying my best and applying the little knowledge I have ^^")
